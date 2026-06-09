@@ -1,1 +1,1 @@
-Print("Testing Complected")
+echo "Testing Complected"
